@@ -302,6 +302,7 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height)
 int main(int argc, char** argv)
 {
     int a = 1;
+    int b = 2;
 	// 初始化GLFW库，必须是应用程序调用的第一个GLFW函数
 	glfwInit();
 
